@@ -1,8 +1,8 @@
 # Artefacts ready
 
-- [ ] Descrição do processo de gerenciamento contendo informação acerca do quadro e dos cartões usados.
+- [x] Descrição do processo de gerenciamento contendo informação acerca do quadro e dos cartões usados.
 - [x] Lista de ferramentas (tools).
-- [ ] Glossário (glossary).
+- [x] Glossário (glossary).
 - [x] Documento de visão (vision).
 - [ ] Especificação de requisitos não expressos por meio de casos de uso (system-wide requirements).
 - [ ] Descrição da arquitetura do software (architecture notebook).
